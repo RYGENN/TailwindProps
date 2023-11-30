@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Card(props) {  // otherwise we can use direct {username} instead of props
+function Card(props) { // otherwise we can use direct {username} instead of props
     return(
 <div class="relative h-[400px] w-[300px] rounded-md">
   <img
