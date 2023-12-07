@@ -22,5 +22,4 @@ function Card(props) { // otherwise we can use direct {username} instead of prop
 </div>
     )
 } 
-
 export default Card;
